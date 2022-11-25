@@ -2,7 +2,8 @@
 >Sentiment Analyser App using Hugging face transformers & Streamlit
 
 This application classifies a user's input as POSITIVE or NEGATIVE based on the default Hugging Face Transformer model. The web app is built using Streamlit and can be deployed using Streamlit Sharing.
-
+click below link to visit the deployed model-
+https://ankushmulkar-sentiment-analyser-app-h-sentiment-analyser-v3gmyy.streamlit.app/
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
